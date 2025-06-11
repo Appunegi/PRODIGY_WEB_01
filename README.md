@@ -5,7 +5,7 @@ Welcome to the Negi Bakery project! This is a simple yet visually appealing web 
 * Features
 -> Fixed Navigation Bar: Stays at the top as you scroll through the page.
 
-->Responsive Layout: Clean, mobile-friendly structure using modern HTML & CSS.
+->Responsive Layout: Clean & friendly structure using modern HTML & CSS.
 
 -> Vanilla JavaScript: No external libraries—just plain JavaScript to detect scroll behavior.
 
