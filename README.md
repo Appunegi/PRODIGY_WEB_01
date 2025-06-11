@@ -1,34 +1,18 @@
 # PRODIGY_WEB_01
-Task completed: PRODIGY_WD_01-Responsive landing page I have successfully completed my first task as a Web Development intern at Prodigy Infotech
+Negi Bakery - Responsive Scroll-Aware Navigation Bar
+Welcome to the Negi Bakery project! This is a simple yet visually appealing web page that includes a fixed navigation bar which dynamically changes its background color and shadow effect when the user scrolls down the page.
 
-In this task, I created a web page for negi bakery with:
+* Features
+-> Fixed Navigation Bar: Stays at the top as you scroll through the page.
 
--A fixed navigation bar that changes color and shadow when you scroll.
+->Responsive Layout: Clean, mobile-friendly structure using modern HTML & CSS.
 
--A hover effect on menu items.
+-> Vanilla JavaScript: No external libraries—just plain JavaScript to detect scroll behavior.
 
--A scrollable page with some welcome content.
+* programming languages  Used
+#HTML5
+#CSS 
+#JavaScript 
 
-what i learned:
-
-HTML: structure a webpage with nav and sections. CSS: Style a fixed navbar, add hover effects, transitions. JavaScript​: Detect scroll, dynamically update styles. web design: Build an interactive, clean, real-world layout.
-
-personal reflection:
-
-this is also my first internship and my first task in web development.
-
-through this task i also learned:
-
--how to use GitHub
-
--how to post and share work on LinkedIn
-
--why do we use platforms like GitHub and LinkedIn in a professional setting
-
-Although i had some basic knowledge about these tools before, this internship helped me gain a much clearer understanding of their importance and practical use.
-
-thankyou
-
-i would like to thank Prodigy Infotech for giving me this opportunity to learn and grow.
-
-I'm looking forward to completing more task and improving my skills!
+* creator 
+Developed by Shaurya Negi – providing reliable delivery services and clean code for web development.
